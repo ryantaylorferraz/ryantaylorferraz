@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Ryan Taylor 👋
 
-👨‍💻 Desenvolvedor Front-end!
+👨‍💻 Desenvolvedor Full Stack!
 
 <div style="display: inline_block"><br>
   <a href= "https://github.com/ryantaylorferraz">
